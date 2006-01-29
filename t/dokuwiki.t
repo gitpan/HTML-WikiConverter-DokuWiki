@@ -98,45 +98,45 @@ __W__
 __NEXT__
 external image
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" />
 __W__
-{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png}}
+{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png}}
 __NEXT__
 external image (resize width)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" width="25" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" width="25" />
 __W__
-{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png?25}}
+{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png?25}}
 __NEXT__
 external image (resize width and height)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" width="25" height="30" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" width="25" height="30" />
 __W__
-{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png?25x30}}
+{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png?25x30}}
 __NEXT__
 external image align (left)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" class="medialeft" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" class="medialeft" />
 __W__
-{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png }}
+{{http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png }}
 __NEXT__
 external image align (right)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" class="mediaright" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" class="mediaright" />
 __W__
-{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png}}
+{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png}}
 __NEXT__
 external image align (center)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" class="mediacenter" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" class="mediacenter" />
 __W__
-{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png }}
+{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png }}
 __NEXT__
 external image align (center w/ caption)
 __H__
-<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png" class="mediacenter" alt="Caption" />
+<img src="http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png" class="mediacenter" alt="Caption" />
 __W__
-{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki%3Adokuwiki-128.png |Caption}}
+{{ http://wiki.splitbrain.org/fetch.php?w=&h=&cache=cache&media=wiki:dokuwiki-128.png |Caption}}
 __NEXT__
 blockquote
 __H__
