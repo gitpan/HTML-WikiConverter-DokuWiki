@@ -5,7 +5,7 @@ use strict;
 
 use base 'HTML::WikiConverter';
 
-our $VERSION = '0.51';
+our $VERSION = '0.52';
 
 =head1 NAME
 
@@ -45,10 +45,9 @@ Disabling CamelCase links (the default) would convert that HTML into
 
 =cut
 
-sub attributes { (
-  shift->SUPER::attributes,
-  camel_case => 0
-) }
+sub attributes { {
+  camel_case => { default => 0 }
+} }
 
 sub rules {
   my %rules = (

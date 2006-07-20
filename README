@@ -1,4 +1,4 @@
-HTML::WikiConverter::DokuWiki version 0.51
+HTML::WikiConverter::DokuWiki version 0.52
 ==========================================
 
 HTML::WikiConverter::DokuWiki adds the DokuWiki dialect to
@@ -19,23 +19,23 @@ Or from the command line:
 
 There's also a web interface if you're so inclined:
 
-  http://diberri.dyndns.org/html2wiki.html
+  http://diberri.dyndns.org/wikipedia/html2wiki/
 
 VERSION
 
-This is HTML::WikiConverter::DokuWiki 0.51.
+This is HTML::WikiConverter::DokuWiki 0.52.
 
 Prior versions of HTML::WikiConverter supported the DokuWiki dialect
 out of the box. As of 0.50, each dialect was branched off into a
 separate CPAN package.
 
-CHANGES IN 0.51
+CHANGES IN 0.52
 
-  * Fixed test cases now that HTML::WikiConverter 0.51 unescapes URIs
+  * Requires HTML::WikiConverter version 0.60
 
 DEPENDENCIES
 
-  * HTML::WikiConverter version 0.50
+  * HTML::WikiConverter version 0.51
 
 INSTALLATION
 
