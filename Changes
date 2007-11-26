@@ -1,7 +1,13 @@
 # Change log for HTML::WikiConverter::DokuWiki
 
+version: 0.53
+date:    2007-11-25
+changes:
+  - Require H::WC 0.53 (I mean it this time)
+    instead of 0.60
+
 version: 0.52
-date:    ??
+date:    2006-06-20
 changes:
   - Require H::WC 0.52 (this should have been in the 0.51
     release of H::WC::DokuWiki)
